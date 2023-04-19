@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dominic Surina</h1>
 <h3 align="center">Java Full-Stack Developer Bootcamp Student</h3>
-<img align=“right” alt=“Project Time” width=“400” src=“https://tenor.com/brXT6.gif”>
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=novemver&label=Profile%20views&color=0e75b6&style=flat" alt="novemver" /> </p>
