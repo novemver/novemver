@@ -7,7 +7,7 @@
 
 - I’m currently learning **Angular, JavaScript, TypeScript, Bootstrap**
 
-- I’m currently working on: **A Project using: Technologies: Java, SQL, Spring Boot, Spring Data, JUnit, HTML, CSS, Bootstrap, Javascript, Typescript, AJAX, XHR, JSON, DOM, Angular, REST, AWS **
+- I’m currently working on: **A Project using: Technologies: Java, SQL, Spring Boot, Spring Data, JUnit, HTML, CSS, Bootstrap, Javascript, Typescript, AJAX, XHR, JSON, DOM, Angular, REST, AWS**
 
 - Ask me about **Things I'm learning or projects I'm working on now.**
 
