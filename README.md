@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=novemver&label=Profile%20views&color=0e75b6&style=flat" alt="novemver" /> </p>
 
-- I’m currently learning **Angular, JavaScript, TypeScript, Bootstrap**
+- I’m currently focusing on **Angular, JavaScript, TypeScript, Bootstrap & Java**
 
 - I’m currently working on: **A Project using: Technologies: Java, SQL, Spring Boot, Spring Data, JUnit, HTML, CSS, Bootstrap, Javascript, Typescript, AJAX, XHR, JSON, DOM, Angular, REST, AWS**
 
