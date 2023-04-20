@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dominic Surina</h1>
 <h3 align="center">Java Full-Stack Developer Bootcamp Student</h3>
 
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=novemver&label=Profile%20views&color=0e75b6&style=flat" alt="novemver" /> </p>
-
 - I’m currently focusing on **Angular, JavaScript, TypeScript, Bootstrap & Java**
 
 - Ask me about **Things I'm learning or projects I'm working on now.**
@@ -22,3 +18,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=novemver&show_icons=true&locale=en&layout=compact" alt="novemver" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=novemver&show_icons=true&locale=en" alt="novemver" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=novemver&label=Profile%20views&color=0e75b6&style=flat" alt="novemver" /> </p>
