@@ -7,8 +7,6 @@
 
 - I’m currently focusing on **Angular, JavaScript, TypeScript, Bootstrap & Java**
 
-- I’m currently working on: **A Project utilizing Java, SQL, Spring Boot, Spring Data, JUnit, HTML, CSS, Bootstrap, Javascript, Typescript, AJAX, XHR, JSON, DOM, Angular, REST & AWS**
-
 - Ask me about **Things I'm learning or projects I'm working on now.**
 
 <h3 align="left">Connect with me:</h3>
