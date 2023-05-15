@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dominic Surina</h1>
-<h3 align="center">Java Full-Stack Developer Bootcamp Student</h3>
+<h3 align="center">Java Full-Stack Developer Bootcamp Graduate</h3>
 
 
 <h3 align="left">Connect with me:</h3>
